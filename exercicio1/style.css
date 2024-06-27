@@ -1,0 +1,38 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+
+
+h1 { 
+    background-color: blue;
+    color: aliceblue;
+}
+#titulo-importante {
+background-color: blueviolet;
+
+}
+
+
+.sub-titulo {
+   background-color: yellow;
+}
+section {
+    background-color: green;
+    border: 10px solid black;
+    margin: 50px;
+}
+.titulo-secao {
+    color: aliceblue;
+    font-weight: bold
+}
+.texto-generico {
+    font-weight: bold
+}
+.titulo-pouco-importante {
+    background-color: black;
+    color: aliceblue
+
+}
+
